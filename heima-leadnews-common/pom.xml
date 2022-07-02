@@ -129,5 +129,18 @@
             <version>2.10.5</version>
         </dependency>
 
+
+
+        <!--swagger2 依赖-->
+        <dependency>
+            <groupId>io.springfox</groupId>
+            <artifactId>springfox-swagger2</artifactId>
+        </dependency>
+        <!--swagger2 ui可视化界面-->
+        <dependency>
+            <groupId>io.springfox</groupId>
+            <artifactId>springfox-swagger-ui</artifactId>
+        </dependency>
+
     </dependencies>
 </project>
